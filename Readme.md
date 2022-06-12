@@ -8,7 +8,8 @@ This project currently has the mentioned features :
 - Clicking a movie banner will display the trailer of that movie or series in youtube.
 - The website is fully responsive
 
-TechStack Used: React.js
+TechStack Used: React.js, API fetch
+
 Additional API or package used: TMDB API, movie-trailer package
 
 [You can checkout the website here!](http://www.google.fr/](https://netflix-clone-4b6e7.web.app/ "Netflix Clone Website")
