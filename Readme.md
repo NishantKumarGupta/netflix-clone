@@ -12,7 +12,7 @@ TechStack Used: React.js, API fetch
 
 Additional API or package used: TMDB API, movie-trailer package
 
-[You can checkout the website here!](http://www.google.fr/](https://netflix-clone-4b6e7.web.app/ "Netflix Clone Website")
+[You can checkout the website here!](https://netflix-clone-4b6e7.web.app/ "Netflix Clone Website")
 
 ![image](https://user-images.githubusercontent.com/67021346/173216877-58b81f9f-52c9-414f-88d9-8457a2a45863.png)
 
